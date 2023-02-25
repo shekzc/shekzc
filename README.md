@@ -1,3 +1,4 @@
+<center>
 # Hi, it's ShekzC's profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
@@ -5,10 +6,15 @@
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
+<br><br>
+- IT Undergraduate
+- Programmer
+- Problem Solver
+- Teamwoker
+- Cyber Security & Computer Security Lover
 <br><br>
 
-## <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /> GitHub Analytics
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -16,6 +22,23 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shekzc&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## Get Connected <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+<a href="https://www.linkedin.com/in/abhishek-chathuranga/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</a> <br><br>
+  
+<a href="https://www.hackerrank.com/ShekzC" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+</a> <br><br>
+  
+<a href="https://www.youtube.com/channel/UCt_Rx8D3_EGq0SpV281tWTw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a> <br><br>
+
+</center>
+
 <!--
 **shekzc/shekzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

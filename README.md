@@ -1,8 +1,7 @@
 ### Hi, it's ShekzC's profile 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Julee&size=40&pause=1000&color=00F106&center=true&width
-=850&height=100&lines=Final+year+IT+Undergraduate;interested+in;Cyber+Security+%7C+Computer+Security+%7C+Web+Development;
-Knowledge+seeking+for+cutting-edge+technologies" alt="Typing SVG" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Julee&size=40&pause=1000&color=00F106&center=true&width=850&height=100&lines=Final+year+IT+Undergraduate;interested+in;Cyber+Security+%7C+Computer+Security+%7C+Web+Development;Knowledge+seeking+for+cutting-edge+technologies" alt="Typing SVG" /></a>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=4th+Year+Information+Technology+Undergraduate;Adaptive+to+Coding;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20technologies&center=true&width=500&height=50"></a>
 </p>

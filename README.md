@@ -1,10 +1,14 @@
-### Hi, it's ShekzC's profile 👋
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Julee&size=40&pause=1000&color=00F106&center=true&width=850&height=100&lines=Final+year+IT+Undergraduate;interested+in;Cyber+Security+%7C+Computer+Security+%7C+Web+Development;Knowledge+seeking+for+cutting-edge+technologies" alt="Typing SVG" /></a>
+### Hi, it's ShekzC's profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=4th+Year+Information+Technology+Undergraduate;Adaptive+to+Coding;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20technologies&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Julee&size=40&pause=1000&color=00F106&center=true&width=850&height=100&lines=Final+year+IT+Undergraduate;interested+in;Cyber+Security+%7C+Computer+Security+%7C+Web+Development;Knowledge+seeking+for+cutting-edge+technologies" alt="Final Year Undergraduate" /></a>
 </p>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 
 <!--
 **shekzc/shekzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

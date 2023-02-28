@@ -16,7 +16,7 @@
 ## GitHub Analytics <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px"> 
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/shekzc">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shekzc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shekzc&layout=compact&langs_count=8&theme=algolia"/>
 </a>
